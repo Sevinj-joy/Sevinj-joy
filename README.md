@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [PragmatechFoundationProject](https://github.com/Sevinj-joy/Sevinj-joy-PragmatechFoundationProject)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sevinj-joy?tab=repositories](https://github.com/Sevinj-joy)
+- 👨‍💻 All of my projects are available at [https://github.com/Sevinj-joy?tab=repositories](https://github.com/Sevinj-joy?tab=repositories)
 
 - 📫 How to reach me **seva.rasul15@gmail.com**
 
