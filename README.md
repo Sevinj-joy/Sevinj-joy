@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Baby Joy](https://github.com/Sevinj-joy/BabyJoyProject)
 
-- 🌱 I’m currently learning **Flask, DJANGO, JAVASCRIPT,Jquery REACT**
+- 🌱 I’m currently learning **Flask, DJANGO, JAVASCRIPT, Jquery, REACT**
 
 - 👯 I’m currently learning **Python/Django**
 
