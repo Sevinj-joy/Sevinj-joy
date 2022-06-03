@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sevinc Rehimova</h1>
-<h3 align="center">I'm FrontEnd developer from Azerbaijan</h3>
+<h3 align="center">I'm BackEnd developer from Azerbaijan</h3>
 
 - 🔭 I’m currently working on [Baby Joy](https://github.com/Sevinj-joy/BabyJoyProject)
 
