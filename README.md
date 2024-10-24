@@ -1,17 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sevinc Rehimova</h1>
 <h3 align="center">I'm BackEnd developer from Azerbaijan</h3>
 
-- 🔭 I’m currently working on [Baby Joy](https://github.com/Sevinj-joy/BabyJoyProject)
 
-- 🌱 I’m currently learning **Flask, DJANGO, JAVASCRIPT, Jquery, REACT**
-
-- 👯 I’m currently learning **Python/Django**
-
-- 🤝 I’m looking for help with [PragmatechFoundationProject](https://github.com/Sevinj-joy/Sevinj-joy-PragmatechFoundationProject)
+- 🌱 I’m currently learning **Flask, DJANGO, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Sevinj-joy?tab=repositories)
 
-- 📫 How to reach me **seva.rasul15@gmail.com**
+- 📫 How to reach me **sevinj.rahimova4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
