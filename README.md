@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sevinc Rehimova</h1>
-<h3 align="center">I'm BackEnd developer from Azerbaijan</h3>
+<h3 align="center">I'm Data Scientist from Azerbaijan</h3>
 
 
 - 🌱 I’m currently learning **Flask, DJANGO, Machine Learning**
